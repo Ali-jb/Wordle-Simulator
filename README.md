@@ -1,5 +1,3 @@
-# Wordle Simulator
-
 ## What is Wordle Simulator?
 
 The Wordle Simulator is a simple project that utilizes the rules of [Wordle](https://www.nytimes.com/games/wordle/index.html) to simulate a round of Wordle and generate a report. This report provides detailed information about each round, allowing for further analysis. By running the simulator multiple times, we can gather sufficient data to conduct statistical analysis and gain insights into the game mechanics.
